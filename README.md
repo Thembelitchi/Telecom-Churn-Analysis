@@ -48,8 +48,8 @@ Based on the analysis, the following recommendations are proposed to Vertex Mobi
 
 **Documentation**
 
-*   For a detailed report of the analysis, please see [Report.md](documentation/Report.md).
-*   For the original project overview and tasks, see [Project_Overview.md](documentation/Project_Overview.md).
+*   For a detailed report of the analysis, please see [Report.md](VERTEX-MOBILE-NET-TELECOM-CHURN-ANALYTICS-PROJECT-REPORT_093104.pptx_20250219_232231_0000.pdf).
+*   For the original project overview and tasks, go to Forage.
 
 **Power BI Dashboard**
 
